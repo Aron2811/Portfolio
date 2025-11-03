@@ -13,7 +13,9 @@ const About = () => {
  </div>
 
  <div className='flex m-6 text-center justify-center  '>
-          <button className="bg-[#1C1C1F] text-white px-6 py-2 text-md rounded border border-white hover:bg-white hover:text-[#1C1C1F] transition-colors duration-300 hover:cursor-pointer ml-[-5px] sm:ml-5 lg:ml-5 xl:ml-5 2xl:ml-5 xl:mt-15 2xl:mt-15">Download CV</button>
+
+  
+          <a href="/John Aron D. Marasigan.pdf" download className="bg-[#1C1C1F] text-white px-6 py-2 text-md rounded border border-white hover:bg-white hover:text-[#1C1C1F] transition-colors duration-300 hover:cursor-pointer ml-[-5px] sm:ml-5 lg:ml-5 xl:ml-5 2xl:ml-5 xl:mt-15 2xl:mt-15">Download CV</a>
         </div>
 
     
